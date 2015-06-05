@@ -1,0 +1,69 @@
+the dog runs ||| le chien court
+the dog runs ||| la chiene court
+my book is blue ||| mon livre est bleu
+my house is blue ||| ma maison est bleue
+my book is white ||| mon livre est blanc
+my house is white ||| ma maison est blanche
+my dog is blue ||| mon chien est bleu
+my dog is blue ||| ma chiene est bleue
+my dog is white ||| mon chien est blanc
+my dog is white ||| ma chiene est blanche
+the book ||| le livre
+the house ||| la maison
+the cat ||| le chat
+the cat ||| la chate
+white book ||| livre blanc
+white house ||| maison blanche
+blue book ||| livre bleu
+blue house ||| maison bleue
+my little cat ||| mon petit chat
+my little cat ||| ma petite chate
+the friend ||| le ami
+the friend ||| la amie
+the little friend ||| le petit ami
+the little friend ||| la petite amie
+blue friend ||| ami bleu
+blue friend ||| amie bleue
+white friend ||| ami blanc
+white friend ||| amie blanche
+my friend is blue ||| mon ami est bleu
+my friend is blue ||| ma amie est bleue
+my friend is white ||| mon ami est blanc
+my friend is white ||| ma amie est blanche
+he is little ||| il est petit
+she is little ||| elle est petite
+he runs ||| il court
+she runs ||| elle court
+he is my friend ||| il est mon ami
+she is my friend ||| elle est ma amie
+he is my cat ||| il est mon chat
+she is my cat ||| elle est ma chate
+he is my little blue cat ||| il est mon petit chat bleu
+she is my little blue cat ||| elle est ma petite chate bleue
+my little cat is white ||| mon petit chat est blanc
+my little cat is white ||| ma petite chate est blanche
+boyfriend ||| petit ami
+girlfriend ||| petite amie
+to go ||| aller
+the ||| le
+the ||| la
+dog ||| chien
+dog ||| chiene
+cat ||| chat
+cat ||| chate
+book ||| livre
+house ||| maison
+my ||| mon
+my ||| ma
+blue ||| bleu
+blue ||| bleue
+white ||| blanc
+white ||| blanche
+little ||| petit
+little ||| petite
+friend ||| ami
+friend ||| amie
+he ||| il
+she ||| elle
+runs ||| court
+is ||| est
